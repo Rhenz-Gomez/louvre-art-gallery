@@ -5,11 +5,11 @@ const artworks = [
     { id: 4, title: "Prismatic Flow", artist: "Iris West", cat: "Abstract", img: "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1200&auto=format&fit=crop" },
     { id: 5, title: "Deep Sea Mind", artist: "Odin Vance", cat: "Abstract", img: "https://th.bing.com/th/id/OIP.I5TEmFVanHAAMgenBxKeSgHaHa?w=197&h=197&c=7&r=0&o=7&pid=1.7&rm=3" },
     
-    { id: 6, title: "The Silent Gaze", artist: "Sophia Mare", cat: "Portraiture", img: "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?q=80&w=1200&auto=format&fit=crop" },
-    { id: 7, title: "Velvet Secrets", artist: "Xavier Du", cat: "Portraiture", img: "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?q=80&w=1200&auto=format&fit=crop" },
-    { id: 8, title: "Golden Hour", artist: "Elena Vostok", cat: "Portraiture", img: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1200&auto=format&fit=crop" },
-    { id: 9, title: "Urban Nomad", artist: "Geoffrey Fleming", cat: "Portraiture", img: "https://images.unsplash.com/photo-1504257432389-52343af06ae3?q=80&w=1200&auto=format&fit=crop" },
-    { id: 10, title: "Forgotten Queen", artist: "Bella Hadid", cat: "Portraiture", img: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1200&auto=format&fit=crop" },
+    { id: 6, title: "The Silent Gaze", artist: "Sophia Mare", cat: "Portraiture", img: "https://tse3.mm.bing.net/th/id/OIP.-GJVKeBWslDd8VYfa3JowQHaGL?rs=1&pid=ImgDetMain&o=7&rm=3" },
+    { id: 7, title: "Velvet Secrets", artist: "Xavier Du", cat: "Portraiture", img: "https://th.bing.com/th/id/OIP.b2f8g-wz8iMbmU0-nW9QBgHaO0?w=174&h=349&c=7&r=0&o=7&pid=1.7&rm=3" },
+    { id: 8, title: "Golden Hour", artist: "Elena Vostok", cat: "Portraiture", img: "https://external-preview.redd.it/ZfZzheBiAA_x2WxS9SNUUjz_2PueIwPl255r7wemdRs.jpg?width=1080&crop=smart&auto=webp&s=eb2908c608eb41842ccac72be7db6cada7929392" },
+    { id: 9, title: "Nomad Man", artist: "Geoffrey Fleming", cat: "Portraiture", img: "https://th.bing.com/th/id/OIP.fqYbhfwGkx2qIQOGxhzlEwHaHa?w=195&h=195&c=7&r=0&o=7&pid=1.7&rm=3" },
+    { id: 10, title: "Forgotten Queen", artist: "Bella Hadid", cat: "Portraiture", img: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/532ac8fa-5d42-4cd0-823a-13c07e3a7350/dg7oek3-4343e25e-ad5f-4412-88db-366586e744e5.jpg/v1/fill/w_894,h_894,q_70,strp/beautiful_queen_portrait_1_by_badgercmyk_dg7oek3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzUzMmFjOGZhLTVkNDItNGNkMC04MjNhLTEzYzA3ZTNhNzM1MFwvZGc3b2VrMy00MzQzZTI1ZS1hZDVmLTQ0MTItODhkYi0zNjY1ODZlNzQ0ZTUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.NIWGX2Fs4diUkeJ3LEhE90o4S6vLO-CDcNa_9R3qrLE" },
     
     { id: 11, title: "Mist Over Mayon", artist: "Marcus Vane", cat: "Nature", img: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1200&auto=format&fit=crop" },
     { id: 12, title: "Sylvan Whispers", artist: "Oliver Stark", cat: "Nature", img: "https://images.unsplash.com/photo-1528183429752-a97d0bf99b5a?q=80&w=1200&auto=format&fit=crop" },
